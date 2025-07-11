@@ -45,10 +45,17 @@ This project is a **Streamlit app** that lets you chat with a customizable AI as
 ```bash
 git clone https://github.com/ElsayedGhanem/Personal-AI-Chat-Assistant.git
 cd Personal-AI-Chat-Assistant
+```
 
 ### 2️⃣ Install the Dependencies
 
 You can install all required Python packages using:
 
 ```bash
-pip install -r requirements.txt
+pip install streamlit requests
+```
+### 3️⃣Get Your OpenRouter API Key
+To use this app, you'll need your own OpenRouter API key:
+- Create an account at OpenRouter.ai.
+- Go to Settings → API Keys in your account.
+- Click Create New Key to generate your personal key
