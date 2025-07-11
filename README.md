@@ -53,6 +53,7 @@ You can install all required Python packages using:
 
 ```bash
 pip install streamlit requests
+streamlit run chatbot_app.py
 ```
 ### 3️⃣Get Your OpenRouter API Key
 To use this app, you'll need your own OpenRouter API key:
