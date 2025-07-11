@@ -45,4 +45,10 @@ This project is a **Streamlit app** that lets you chat with a customizable AI as
 ```bash
 git clone https://github.com/ElsayedGhanem/Personal-AI-Chat-Assistant.git
 cd Personal-AI-Chat-Assistant
-streamlit run chatbot_app.py
+
+### 2️⃣ Install the Dependencies
+
+You can install all required Python packages using:
+
+```bash
+pip install -r requirements.txt
