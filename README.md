@@ -3,13 +3,11 @@
 This project is a **Streamlit app** that lets you chat with a customizable AI assistant using the **OpenRouter API**.
 
 ---
-
 ## 🎯 Project Objective
 - Build an interactive **web-based chatbot** with an easy-to-use interface.
 - Let users choose their assistant's **personality** (persona) to tailor responses.
 - Support **saving and loading** conversation history.
 - Use **OpenRouter** with a free or paid API key to access various LLMs.
-
 ---
 
 ## 🚀 Features
